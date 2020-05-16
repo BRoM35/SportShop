@@ -1,0 +1,15 @@
+﻿.info {
+  margin: 0 120px;
+  padding-top: 50px;
+}
+.info p {
+  color: #037e91;
+}
+
+.info-title {
+  color: #037e91;
+  font-size: 24px !important;
+  font-weight: 700;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}

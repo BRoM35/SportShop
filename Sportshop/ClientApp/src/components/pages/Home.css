@@ -1,0 +1,41 @@
+﻿.category-list {
+  width: 100%;
+  padding-left: 0!important;
+  list-style: none;
+  color: #037e91;
+}
+.category-list li {
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.popular-title {
+  font-weight: 700;
+  color: #037e91;
+}
+
+.popular-list li{
+  cursor: pointer;
+  color: #04a4bd;
+  text-decoration: underline;
+}
+
+.popular-list li:before{
+  width: 30px;
+  height: 30px;
+}
+
+.news-title{
+  font-weight: 700;
+  color: #037e91;
+}
+
+.news-photo {
+  width: 100px;
+  height: 100px;
+}
+
+.news img{
+  cursor: pointer;
+}

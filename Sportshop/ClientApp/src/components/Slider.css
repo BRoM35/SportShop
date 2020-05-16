@@ -1,0 +1,13 @@
+﻿.slider {
+  padding: 1.5rem 5rem;
+}
+
+.carousel-inner {
+  border-radius: 35px;
+}
+
+.carousel-item img {
+  height: 450px;
+  border-radius: 35px;
+  width: 100%;
+}
